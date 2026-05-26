@@ -6,11 +6,33 @@ SignalSpend is a free AI spend audit for startup founders and engineering manage
 
 ## Screenshots
 
-Add 3 screenshots after deployment:
+Screenshots from the local MVP run:
 
-- Landing + input form
-- Audit result page
-- Public share URL
+### Landing page
+
+The first screen introduces SignalSpend as a founder-friendly AI spend audit and shows the example savings board.
+
+![SignalSpend landing page](public/screenshots/landing-page.png)
+
+### Audit input form
+
+Users enter team size, primary use case, AI tool, plan, monthly spend, and seat count. The form persists across reloads.
+
+![SignalSpend audit input form](public/screenshots/audit-inputs.png)
+
+### Audit result and lead capture
+
+After generating an audit, SignalSpend shows savings, explains the recommendation, creates a public report URL, and captures the email only after value is shown.
+
+![SignalSpend audit result](public/screenshots/audit-result.png)
+
+### Captured report state
+
+The lead capture flow confirms the report was captured and is ready for transactional email once Resend is configured.
+
+![SignalSpend captured report](public/screenshots/captured-report.png)
+
+> Note: replace these local screenshot files with fresh deployed screenshots before final submission.
 
 ## Quick Start
 
