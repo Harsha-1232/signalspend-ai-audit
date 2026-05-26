@@ -2,7 +2,7 @@
 
 SignalSpend is a free AI spend audit for startup founders and engineering managers who pay for tools like Cursor, Copilot, Claude, ChatGPT, Gemini, OpenAI API, Anthropic API, and v0. It turns a messy monthly AI bill into a shareable savings memo with per-tool recommendations, annualized savings, lead capture, and a Credex consultation path for high-savings cases.
 
-**Live URL:** https://your-vercel-url.vercel.app
+**Live URL:** https://signalspend-ai-audit.vercel.app/
 
 ## Screenshots
 
